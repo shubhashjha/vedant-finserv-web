@@ -1,0 +1,21 @@
+{
+  "companyName": "Vedant Finserv",
+  "tagline": "Your Trusted Financial Partner",
+  "description": "Premium loan advisory and financial services across India with transparent guidance, fast processing, and trusted banking partnerships.",
+  "baseUrl": "https://www.vedantfinserv.in",
+  "phoneDisplay": "+91 9016340282",
+  "phoneDigits": "919016340282",
+  "whatsappDigits": "919016340282",
+  "email": "vedantfinserv1714@gmail.com",
+  "addressLine1": "Vedant Finserv",
+  "addressLine2": "C/1112 Titanium City Centre, Opp seema hall Anandnagar Road 380015,Ahmedabad, India",
+  "addressLine3": "PAN India Service Network",
+  "officeHours": "Mon - Sat, 9:30 AM - 7:00 PM",
+  "googleMapPlaceholder": "https://www.google.com/maps",
+  "socials": [
+    { "name": "Facebook", "href": "https://facebook.com", "icon": "Facebook" },
+    { "name": "Instagram", "href": "https://instagram.com", "icon": "Instagram" },
+    { "name": "LinkedIn", "href": "https://linkedin.com", "icon": "LinkedIn" },
+    { "name": "YouTube", "href": "https://youtube.com", "icon": "Youtube" }
+  ]
+}

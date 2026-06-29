@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Amit Sharma",
+    "role": "Business Owner",
+    "location": "Mumbai",
+    "quote": "Vedant Finserv handled the process professionally and kept every step clear. The turnaround was faster than I expected.",
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "name": "Neha Mehta",
+    "role": "Salaried Professional",
+    "location": "Pune",
+    "quote": "The guidance was practical and transparent. I always knew what document was needed and what came next.",
+    "rating": 5
+  },
+  {
+    "id": 3,
+    "name": "Rahul Patil",
+    "role": "SME Founder",
+    "location": "Nashik",
+    "quote": "They compared options properly instead of pushing one product. That saved time and gave us a better rate.",
+    "rating": 5
+  },
+  {
+    "id": 4,
+    "name": "Pooja Singh",
+    "role": "First-Time Home Buyer",
+    "location": "Thane",
+    "quote": "Clear communication, quick coordination, and a premium experience from start to finish.",
+    "rating": 5
+  }
+]

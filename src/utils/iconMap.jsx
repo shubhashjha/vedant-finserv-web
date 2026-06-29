@@ -1,0 +1,77 @@
+import React from 'react';
+import {
+  BadgeIndianRupee,
+  Banknote,
+  BriefcaseBusiness,
+  Building2,
+  CarFront,
+  CheckCircle2,
+  ChevronRight,
+  Construction,
+  CreditCard,
+  Factory,
+  GraduationCap,
+  HandCoins,
+  Headphones,
+  Home,
+  Landmark,
+  LayoutGrid,
+  LifeBuoy,
+  Mail,
+  MapPin,
+  Menu,
+  MessageCircleMore,
+  Phone,
+  ShieldCheck,
+  Sparkles,
+  Star,
+  Tractor,
+  Truck,
+  UsersRound,
+  X,
+} from 'lucide-react';
+import { FaFacebookF, FaInstagram, FaLinkedinIn, FaWhatsapp, FaYoutube } from 'react-icons/fa6';
+
+const iconComponents = {
+  Home,
+  Landmark,
+  Building2,
+  Factory,
+  BriefcaseBusiness,
+  CarFront,
+  Truck,
+  Construction,
+  Tractor,
+  CreditCard,
+  BadgeIndianRupee,
+  GraduationCap,
+  CheckCircle2,
+  ShieldCheck,
+  Sparkles,
+  Star,
+  UsersRound,
+  LifeBuoy,
+  HandCoins,
+  Banknote,
+  Headphones,
+  LayoutGrid,
+  Menu,
+  X,
+  ChevronRight,
+  Mail,
+  Phone,
+  MapPin,
+  MessageCircleMore,
+  Whatsapp: FaWhatsapp,
+  Facebook: FaFacebookF,
+  Instagram: FaInstagram,
+  LinkedIn: FaLinkedinIn,
+  Youtube: FaYoutube,
+};
+
+export function getIcon(iconName, className = 'h-5 w-5') {
+  const Icon = iconComponents[iconName] || BadgeIndianRupee;
+
+  return <Icon className={className} aria-hidden="true" />;
+}
+

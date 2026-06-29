@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#F8FAFC"/>
+  <rect x="72" y="72" width="1056" height="486" rx="36" fill="#FFFFFF" stroke="#DCE7E1"/>
+  <rect x="112" y="120" width="160" height="160" rx="32" fill="#0B6E4F"/>
+  <path d="M152 240L190 156h20l38 84h-20l-7-16h-34l-7 16h-20Zm35-34h22l-11-25-11 25Z" fill="#fff"/>
+  <text x="320" y="185" fill="#1A1A1A" font-family="Inter, Arial, sans-serif" font-size="58" font-weight="700">Vedant Finserv</text>
+  <text x="320" y="245" fill="#0B6E4F" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="600">Your Trusted Financial Partner</text>
+  <text x="320" y="300" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="24">Fast loan approval, lower interest, transparent guidance.</text>
+  <rect x="112" y="334" width="976" height="160" rx="28" fill="#F1F7F4"/>
+  <circle cx="180" cy="414" r="34" fill="#0B6E4F"/>
+  <circle cx="180" cy="414" r="18" fill="#12C48B"/>
+  <rect x="250" y="382" width="228" height="18" rx="9" fill="#94A3B8"/>
+  <rect x="250" y="412" width="340" height="18" rx="9" fill="#CBD5E1"/>
+  <rect x="250" y="442" width="288" height="18" rx="9" fill="#CBD5E1"/>
+  <path d="M740 444C778 376 854 340 960 340" stroke="#0B6E4F" stroke-width="12" stroke-linecap="round"/>
+  <path d="M740 444C778 376 854 340 960 340" stroke="#12C48B" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="960" cy="340" r="18" fill="#F4B400"/>
+</svg>

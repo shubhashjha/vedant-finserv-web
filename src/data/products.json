@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "title": "Home Loan",
+    "slug": "home-loan",
+    "icon": "Home",
+    "description": "Affordable home loans with competitive rates and smooth processing.",
+    "features": ["Lowest Interest", "Quick Approval", "Minimal Documentation"],
+    "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSfGGVVYSaKBM7d5QfdUCRXEXw_cuw20cGlkpQwhOJJktBnJww/viewform?usp=publish-editor"
+  },
+  {
+    "id": 2,
+    "title": "Loan Against Property",
+    "slug": "loan-against-property",
+    "icon": "Landmark",
+    "description": "Unlock the value of your residential or commercial property for planned funding.",
+    "features": ["High Ticket Size", "Flexible Tenure", "Easy Eligibility"],
+    "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSfGGVVYSaKBM7d5QfdUCRXEXw_cuw20cGlkpQwhOJJktBnJww/viewform?usp=publish-editor"
+  },
+  {
+    "id": 3,
+    "title": "Commercial Loan",
+    "slug": "commercial-loan",
+    "icon": "Building2",
+    "description": "Structured finance for businesses expanding operations or working capital.",
+    "features": ["Business Friendly", "Fast Processing", "Tailored Terms"],
+    "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSfGGVVYSaKBM7d5QfdUCRXEXw_cuw20cGlkpQwhOJJktBnJww/viewform?usp=publish-editor"
+  },
+  {
+    "id": 4,
+    "title": "Industrial Shed Loan",
+    "slug": "industrial-shed-loan",
+    "icon": "Factory",
+    "description": "Funding for industrial sheds, warehouses, and manufacturing facilities.",
+    "features": ["Project Support", "Long Tenure", "Guided Documentation"],
+    "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSfGGVVYSaKBM7d5QfdUCRXEXw_cuw20cGlkpQwhOJJktBnJww/viewform?usp=publish-editor"
+  },
+  {
+    "id": 5,
+    "title": "Project Funding",
+    "slug": "project-funding",
+    "icon": "BriefcaseBusiness",
+    "description": "Finance for new projects, expansion plans, and specialized business requirements.",
+    "features": ["Project Evaluation", "Custom Structuring", "Dedicated Support"],
+    "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSfGGVVYSaKBM7d5QfdUCRXEXw_cuw20cGlkpQwhOJJktBnJww/viewform?usp=publish-editor"
+  },
+  {
+    "id": 6,
+    "title": "Used Car Loan",
+    "slug": "used-car-loan",
+    "icon": "CarFront",
+    "description": "Simple financing for pre-owned cars with practical EMI options.",
+    "features": ["Fast Approval", "Simple Process", "Value-Based Lending"],
+    "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSfGGVVYSaKBM7d5QfdUCRXEXw_cuw20cGlkpQwhOJJktBnJww/viewform?usp=publish-editor"
+  },
+  {
+    "id": 7,
+    "title": "New Car Loan",
+    "slug": "new-car-loan",
+    "icon": "CarFront",
+    "description": "Low-cost financing for new vehicles with convenient repayment plans.",
+    "features": ["Attractive Rates", "Quick Sanction", "Dealer Coordination"],
+    "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSfGGVVYSaKBM7d5QfdUCRXEXw_cuw20cGlkpQwhOJJktBnJww/viewform?usp=publish-editor"
+  },
+  {
+    "id": 8,
+    "title": "Commercial Vehicle Loan",
+    "slug": "commercial-vehicle-loan",
+    "icon": "Truck",
+    "description": "Funding for trucks, buses, and commercial fleet expansion.",
+    "features": ["Fleet Expansion", "Fuelled by Growth", "Flexible Repayment"],
+    "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSfGGVVYSaKBM7d5QfdUCRXEXw_cuw20cGlkpQwhOJJktBnJww/viewform?usp=publish-editor"
+  },
+  {
+    "id": 9,
+    "title": "Construction Equipment Loan",
+    "slug": "construction-equipment-loan",
+    "icon": "Construction",
+    "description": "Loans for backhoe loaders, excavators, and other heavy equipment.",
+    "features": ["Equipment Funding", "Supportive Tenure", "Industry Fit"],
+    "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSfGGVVYSaKBM7d5QfdUCRXEXw_cuw20cGlkpQwhOJJktBnJww/viewform?usp=publish-editor"
+  },
+  {
+    "id": 10,
+    "title": "Agriculture Vehicle Loan",
+    "slug": "agriculture-vehicle-loan",
+    "icon": "Tractor",
+    "description": "Finance for tractors and agriculture vehicles that support farm growth.",
+    "features": ["Farm Friendly", "Simple Documentation", "Trusted Support"],
+    "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSfGGVVYSaKBM7d5QfdUCRXEXw_cuw20cGlkpQwhOJJktBnJww/viewform?usp=publish-editor"
+  },
+  {
+    "id": 11,
+    "title": "Cash Credit (CC)",
+    "slug": "cash-credit-cc",
+    "icon": "CreditCard",
+    "description": "Working capital support designed for day-to-day business liquidity.",
+    "features": ["Revolving Limit", "Working Capital", "Flexible Drawdown"],
+    "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSfGGVVYSaKBM7d5QfdUCRXEXw_cuw20cGlkpQwhOJJktBnJww/viewform?usp=publish-editor"
+  },
+  {
+    "id": 12,
+    "title": "Overdraft (OD)",
+    "slug": "overdraft-od",
+    "icon": "BadgeIndianRupee",
+    "description": "Instant liquidity on approved limit with controlled interest costs.",
+    "features": ["Interest on Utilized Amount", "Quick Access", "Business Utility"],
+    "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSfGGVVYSaKBM7d5QfdUCRXEXw_cuw20cGlkpQwhOJJktBnJww/viewform?usp=publish-editor"
+  },
+  {
+    "id": 13,
+    "title": "Personal Loan",
+    "slug": "personal-loan",
+    "icon": "BadgeIndianRupee",
+    "description": "Fast personal loans for planned expenses and urgent financial needs.",
+    "features": ["Minimal Paperwork", "Quick Disbursal", "Flexible Use"],
+    "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSfGGVVYSaKBM7d5QfdUCRXEXw_cuw20cGlkpQwhOJJktBnJww/viewform?usp=publish-editor"
+  },
+  {
+    "id": 14,
+    "title": "Business Loan",
+    "slug": "business-loan",
+    "icon": "BriefcaseBusiness",
+    "description": "Business financing for growth, inventory, operations, and expansion.",
+    "features": ["Business Growth", "Customized Terms", "End-to-End Support"],
+    "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSfGGVVYSaKBM7d5QfdUCRXEXw_cuw20cGlkpQwhOJJktBnJww/viewform?usp=publish-editor"
+  },
+  {
+    "id": 15,
+    "title": "Education Loan",
+    "slug": "education-loan",
+    "icon": "GraduationCap",
+    "description": "Student financing for higher education in India and abroad.",
+    "features": ["Study Support", "Affordable Terms", "Fast Guidance"],
+    "googleForm": "https://docs.google.com/forms/d/e/1FAIpQLSfGGVVYSaKBM7d5QfdUCRXEXw_cuw20cGlkpQwhOJJktBnJww/viewform?usp=publish-editor"
+  }
+]
